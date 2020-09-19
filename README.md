@@ -4,3 +4,8 @@ I am currently a DPhil student at the [Department of Politics and International 
 I received a Master's in Public Policy from the University of Oxford, and a Master's in Economics at Queen Mary University of London.
 
 My research interest include political economy and behavioural economics. 
+
+
+## Research
+
+
