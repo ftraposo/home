@@ -13,4 +13,8 @@ My research interest include political economy and behavioural economics.
 3. Deterrence of dispersion?  Effect of audits on behaviour of contractors (with [Nelson Ruiz](https://www.politics.ox.ac.uk/academic-staff/nelson-ruiz-guarin.html))
 4. Reference Points Formation (with [Nicholas Sabin](https://www.cabdyn.ox.ac.uk/people_pages/complexity_people_sabin.asp))
 
-
+## Teaching
+1. Quantitative Methods, King's College London 
+2. Development Economics, King's College London
+3. Intermediate Microeconomics, King's College London
+4. Causal Inference, University of Oxford
