@@ -22,4 +22,4 @@ My research interest include political economy and behavioural economics.
 ## Contact details
 
 email: felipe.torres(at)politics.ox.ac.uk
-Twitter: @ftraposo
+
