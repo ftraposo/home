@@ -27,5 +27,5 @@ email: felipe.torres(at)politics.ox.ac.uk
 
 ## Data 
 
-Please find some of the data that I have been using for some my studies
+Here you will find some the data that I have been using for my research
 [Data](https://github.com/ftraposo)
