@@ -14,12 +14,13 @@ My research interest include political economy and behavioural economics.
 4. Measurement error on vote-buying and clientelism.
 
 ## Teaching
-- Quantitative Methods, King's College London 
-- Development Economics, King's College London
-- Intermediate Microeconomics, King's College London
 - Causal Inference, University of Oxford
 - Advanced topics of Development, King's College London
 - Advanced topics of Political Economy, King's College London
+- Quantitative Methods, King's College London 
+- Development Economics, King's College London
+- Intermediate Microeconomics, King's College London
+
 
 ## Contact details
 
