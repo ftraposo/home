@@ -11,7 +11,8 @@ My research interest include political economy and behavioural economics.
 1. Are Voters Updating when Audit Reports are Informative? (with [Raymond Duch](https://www.raymondduch.com/))
 2. Deterrence of dispersion?  Effect of audits on behaviour of contractors (with [Nelson Ruiz](https://www.politics.ox.ac.uk/academic-staff/nelson-ruiz-guarin.html))
 3. Reference Points Formation (with [Nicholas Sabin](https://www.cabdyn.ox.ac.uk/people_pages/complexity_people_sabin.asp))
-4. Measurement error on vote-buying and clientelism.
+4. Testing List Experiment Assumptions. 
+5. Do mayors reward corrupt bureaucrats?
 
 ## Teaching
 - Causal Inference, University of Oxford
