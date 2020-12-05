@@ -13,6 +13,7 @@ My research interest include political economy and behavioural economics.
 3. Reference Points Formation (with [Nicholas Sabin](https://www.cabdyn.ox.ac.uk/people_pages/complexity_people_sabin.asp))
 4. Measuring Vote-buying using Randomised Item Response Technique
 5. Do mayors reward/punish corrupt bureaucrats?
+6. Revisiting the relationship between electoral accountability and corruption: The effects of audits on political accountability. 
 
 ## Teaching
 - Causal Inference, University of Oxford
