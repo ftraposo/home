@@ -18,7 +18,7 @@ My research interest include political economy and behavioural economics.
 ## Teaching
 - Causal Inference, University of Oxford
 - Advanced topics of Development, King's College London
-- Advanced topics of Political Economy, King's College London
+- Econometrics, King's College London
 - Quantitative Methods, King's College London 
 - Development Economics, King's College London
 - Intermediate Microeconomics, King's College London
