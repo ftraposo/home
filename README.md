@@ -9,7 +9,7 @@ My research interest include political economy and behavioural economics.
 ## Research
 
 1. Are Voters Updating when Audit Reports are Informative? (with [Raymond Duch](https://www.raymondduch.com/)). Registered pre-analysis plan: [AER RCT Registry](https://www.socialscienceregistry.org/trials/5932)
-2. Choice Architecture for Messaging Corruption (with [Raymond Duch](https://www.raymondduch.com/)). Registered pre-analysis plan: 
+2. Choice Architecture for Messaging Corruption (with [Raymond Duch](https://www.raymondduch.com/)). Registered pre-analysis plan: [AER RECT Registry](https://www.socialscienceregistry.org/trials/7233)
 3. Deterrence of dispersion?  Effect of audits on behaviour of contractors (with [Nelson Ruiz](https://www.politics.ox.ac.uk/academic-staff/nelson-ruiz-guarin.html))
 4. Reference Points Formation (with [Nicholas Sabin](https://www.cabdyn.ox.ac.uk/people_pages/complexity_people_sabin.asp))
 5. Measuring Corruption using Randomised Item Response Technique
