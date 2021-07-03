@@ -1,7 +1,7 @@
 ## Hello, welcome to my website (Under construction).
 
 I am a DPhil student at the [Department of Politics and International Relations, University of Oxford](https://www.politics.ox.ac.uk/). 
-I received a Master's in Public Policy from the University of Oxford, and a Master's in Economics at Queen Mary University of London.
+I received a Master's in Public Policy from the University of Oxford, and a Master's in Economics from Queen Mary University of London.
 
 My research interest include political economy and behavioural economics. 
 
@@ -20,7 +20,6 @@ My research interest include political economy and behavioural economics.
 - Game Theory, King's College London
 - Causal Inference, University of Oxford
 - Advanced topics of Development, King's College London
-- Econometrics, King's College London
 - Quantitative Methods, King's College London 
 - Development Economics, King's College London
 - Intermediate Microeconomics, King's College London
@@ -32,5 +31,4 @@ email: felipe.torres(at)politics.ox.ac.uk
 
 ## Data 
 
-Here you will find some the data that I have been using for some of my research
-[Data](https://github.com/ftraposo)
+Here you will find some the [Data](https://github.com/ftraposo) that I have used for my research.
